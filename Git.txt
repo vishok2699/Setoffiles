@@ -6,7 +6,7 @@ git status - current status of the changes
 	green - added
 git add --all - prepare all the files to commit and push
 git commit -m" any comment "  - stage the all added changes.
-git push - push changes to GIT HUB repository.
+git push - push changes to GIT HUB repo.
 
 
 
